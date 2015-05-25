@@ -1,0 +1,13 @@
+$color: #ccc;
+$bgc: #ffffff;
+$height: 100px;
+
+body{
+	background-color: $color;
+  	width: $height;
+}
+p{
+  height: $height;
+  background-color: $bgc;
+  color: $color;
+}
